@@ -4,7 +4,7 @@ Functionality
 
 Install on Debian distributions
 
-    git clone https://github.com/batbyte/batbyte-tool.git
+    git clone https://github.com/mrbatbyte/batbyte-tool.git
     chmod +x batbyte-tool
     cd batbyte-tool
     bash update.sh
